@@ -1,6 +1,6 @@
 # Ruth-Cybersecurity-Portafolio
 
-## Sobre este repositorio
+## Sobre mi
 
 Soy Ruth Pérez, analista SOC en formación con enfoque en ciberseguridad defensiva,
 inteligencia de amenazas (CTI) y reconocimiento de redes.
