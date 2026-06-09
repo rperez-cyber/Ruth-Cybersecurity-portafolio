@@ -39,6 +39,7 @@ Actualmente curso Ethical Hacking con Edutek.
 - ✅ Taller: Riesgos Críticos de Ciberseguridad y Privacidad — USACH
 - ✅ Taller: Hoja de Ruta de Ciberseguridad 2026 — Academia de Capacitación
 - ✅ Taller: Resiliencia y Gestión de Crisis — Academia de Capacitación
+- ✅ Hacker Ethical - Edutek - Cisco
 - 🥇 Ver todas mis insignias verificadas: [Perfil Credly](https://www.credly.com/users/ruth-perez.a4ef9b1b)
 
 ### 📊 Estadísticas de GitHub
