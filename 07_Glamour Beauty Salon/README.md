@@ -11,4 +11,4 @@
      Escalada de privilegios mediante binario SUID,
 
 
-  - **Writeup:** ver wrieteup= (glamour-beauty-salon.pdf)
+  - **Writeup:** ver writeup= (glamour-beauty-salon.pdf)
