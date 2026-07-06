@@ -21,3 +21,4 @@ ssh hacker@172.17.0.2
 ## Vimos su vulnerabilidad (PATH HIJACKING)
 ## Creamos un programa falso para explotarla
 ## Obtuvimos acceso root y encontramos la flag 
+
