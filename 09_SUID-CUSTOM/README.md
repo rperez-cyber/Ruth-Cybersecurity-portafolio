@@ -1,5 +1,5 @@
 # Laboratorio SUID-CUSTOM - PrivilegeEscalation vía PATH Hijacking
-Este repositorio contiene el writeup del laboratorio **SUID-CUSTO** de WHOAMI-Labs, donde se explota un binario con el bit **SUID** configurado de dforma insegura.
+Este repositorio contiene el writeup del laboratorio **SUID-CUSTOM** de WHOAMI-Labs, donde se explota un binario con el bit **SUID** configurado de dforma insegura.
 La vulnerabilidad permite realizar un **PATH Hijacking** para obtener una shell con privilegios de **root**.
 
 ---
