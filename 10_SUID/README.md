@@ -5,12 +5,11 @@ para escalar privilegios hasta **root**
 ---
 
 ## Información del laboratorio
-| Categoría | Detalle | 
-| Plataforma | Whoami-Labs |
-| Laboratorio | SUID |
-| Dificultad | Fácil | 
-| Sistema Operativo | Linux |
-| Objetivo | Escalar privilegios hasta root
+- **Plataforma:** Whoami-Labs 
+- **Laboratorio:** SUID 
+- **Dificultad:** Fácil 
+- **Sistema Operativo:** Linux
+- **Objetivo:** Escalar privilegios hasta root
 
 ---
 ## Objetivo
