@@ -30,5 +30,7 @@ Este laboratorio consiste en comprometer una máquina Linux vulnerable mediante 
   - SSH
   - Linux CLI
  ----
- 
-  - 
+
+ **NOTA:** Este laboratorio fue realizado en un entorno controladocon fines exclusivamente educativos.
+
+ **RUTH PEREZ**
