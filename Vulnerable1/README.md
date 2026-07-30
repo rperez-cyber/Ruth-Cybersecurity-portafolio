@@ -1,7 +1,7 @@
 # Vulnerable1 -- Whoami-Labs
 
 ## Overview
-Este laboratorio consiste en comprometer una máquina Linux vulnerable mediante técnicas de reconocimiento, enumeración y explotación de vulnerabilidades web para obtener <cceso inical al sistema,escalar privilegios hasta root para encontrar la flag.
+Este laboratorio consiste en comprometer una máquina Linux vulnerable mediante técnicas de reconocimiento, enumeración y explotación de vulnerabilidades web para obtener acceso inical al sistema, escalar privilegios hasta root para encontrar la flag.
 ---
 
 ## Objetivo
