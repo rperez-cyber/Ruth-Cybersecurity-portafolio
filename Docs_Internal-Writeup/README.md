@@ -6,7 +6,7 @@ Este repositorio documenta la resolución del laboratorio Internal Docs de la pl
 |---------------|------------|
 | Autora        | Ruth Pérez |
 | Objetivo      |`172.17.0.2`|
-| Dificultad    | Fácul      |
+| Dificultad    | Fácil      |
 | Fecha         | 26/08/2026 |
 
 ## Herramientas utilizadas
