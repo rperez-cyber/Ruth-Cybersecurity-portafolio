@@ -1,9 +1,6 @@
 ### El objetivo de este laboratorio fue identificar y explotar una configuración insegura realcionada con el servicio SNMP.
 
-|Campo          |Información
-|
-|-------------  |---------------------------
-------------------------------------------|
+
 
 |**Plataforma**  |Whoami-Labs
 |
