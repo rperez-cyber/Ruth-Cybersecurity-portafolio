@@ -18,6 +18,7 @@
 snmpwalk, TFTP y SSH.                       |
 
 
+
 ## **Herramientas utilizadas**
 - Nmap - Reconocimiento y escaneo de puertos.
 - onesixtyone - Enumeración de community strings SNMP.
