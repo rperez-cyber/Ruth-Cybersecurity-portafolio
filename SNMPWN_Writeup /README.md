@@ -4,12 +4,16 @@
 |
 |-------------  |---------------------------
 ------------------------------------------|
+
 |**Plataforma**  |Whoami-Labs
 |
 |**Máquina**     |SNMPWN
+
 |
 |**Categoría**   |Enumeración de servicios  |
-|**Dificultad**  |Media             
+
+|**Dificultad**  |Media        
+
 |
 |**Herramientas**|Nmap, onesixtyone, 
 snmpwalk, TFTP y SSH.                       |
