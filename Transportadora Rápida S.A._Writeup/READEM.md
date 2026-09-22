@@ -1,23 +1,17 @@
 ## Transportadora Rápida S.A.
 
 
-|Campo                    |Detalle
-|
-|-------------------------|--------------------------------
------------------------------------------------------------|
-|**Laboratorio**          |Transportadora Rápida S.A.      |
-|**Plataforma**           |Whoami-labs.com                 |
-|
-|**Dificultad**           |Fácil
-|
-|**IP**                   |172.17.0.1
-|
-|Categorías               |Insure File Upload .
-Reverse Shell . Privilege Escalation                       |
-|**Fecha**                |21/09/2026
-|
-|**Autora**               |Ruth Pérez
-|
+## Información 
+
+- **Plataforma:** Whoami-labs.com
+- **Laboratorio:** Transportadora Rápida S.A.
+- **Dificultad:** Fácil
+-  **IP** 172.17.0.2
+- **Sistema Operativo** Linux
+- **Categoría:** Insure File Upload . Reverse Shell . Privilege Escalation
+- **Fecha** 21/09/2026
+- **Autora** Ruth Pérez
+
 
 ## Objetivo
 Obtener acceso al sistema mediante una vulnerabilidad de subida de archivos, escalar priviligios hasta root y localizar la flag del laboratorio.
