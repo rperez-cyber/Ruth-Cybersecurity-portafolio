@@ -29,9 +29,9 @@ Obtener acceso al sistema mediante una vulnerabilidad de subida de archivos, esc
 - Netcat
 -Linuz
 
-##La explocación completa el laboratorio, incluyendo el procedimiento, los comandos, las evidencias y el análisis técnico, se encuentra en el PDF adjuntado a este README.
+## La explocación completa el laboratorio, incluyendo el procedimiento, los comandos, las evidencias y el análisis técnico, se encuentra en el PDF adjuntado a este README.
 
-##Disclaimer
+## Disclaimer
 Este laboratorio se realizó con fines educativos y dentro de un entorno autorizado. Las técnicas descritas no deben utulizarse contra sistems sin permiso.
 
-##Ruth Pérez
+## Ruth Pérez
