@@ -15,3 +15,6 @@
 - **Fecha** 22/09/2026
   
 
+## Disclaimer
+
+Este laboratorio fue realizado exclusivamente con fines educativos en la plataforma  **Whoami-Labs**.
