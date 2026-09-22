@@ -23,10 +23,10 @@ Reverse Shell . Privilege Escalation                       |
 Obtener acceso al sistema mediante una vulnerabilidad de subida de archivos, escalar priviligios hasta root y localizar la flag del laboratorio.
 
 ## Herramientas utilizada
--Nmap
--Gobuster
--PHP Reverse Shell
--Netcat
+- Nmap
+- Gobuster
+- PHP Reverse Shell
+- Netcat
 -Linuz
 
 ##La explocación completa el laboratorio, incluyendo el procedimiento, los comandos, las evidencias y el análisis técnico, se encuentra en el PDF adjuntado a este README.
