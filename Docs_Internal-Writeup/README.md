@@ -23,13 +23,13 @@
   - Escalada de privilegios mediante GTGOBins.
  
     ## Resultado
-    Se obtuvo acceso inicia mediante credenciales filtradas en el código fuente y se escaló a root explotando una mala configuración de sudo sobre vim.
+    Se obtuvo acceso inicial mediante credenciales filtradas en el código fuente y se escaló a root explotando una mala configuración de sudo sobre vim.
 
     ## Disclaimer
     Este laboratorio es realizados con fines educativos
 
     ## Writeup Completo
-    Ver writeup detallado para el proceso paso a paso en el PDF, incluido en el repositorio.
+    Ver writeup detallado para el proceso paso a paso en el PDF incluido en el repositorio.
 
     ## Autora
     **Ruth Pérez**
