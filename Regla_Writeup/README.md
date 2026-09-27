@@ -4,11 +4,12 @@
 
 ## Información 
 
-- **Máquina** Regla
-- **Plataforma** Whoami-Labs.com
-- **IP Objetivo** 172.17.0.2
-- **Sistema Operativo** Linux
-- **Dificultad** Media
+- **Máquina**: Regla
+- **Plataforma**: Whoami-Labs.com
+- **IP Objetivo**: 172.17.0.2
+- **Sistema Operativo**: Linux
+- **Dificultad**: Media
+- **Fecha**: 26/09/2026
 
 ----
 
