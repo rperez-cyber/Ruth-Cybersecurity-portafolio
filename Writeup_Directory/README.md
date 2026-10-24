@@ -22,7 +22,7 @@
 - find / GTFOBins
 
 ## Disclaimer
-Todo el contenido de este repositorio corresponde a laboratorios de prática en entornos controlados y autorizados.
+Todo el contenido de este repositorio corresponde a laboratorios de práctica en entornos controlados y autorizados.
 
 ## Autora
 **Ruth Pérez**
