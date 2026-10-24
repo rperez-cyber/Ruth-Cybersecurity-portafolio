@@ -19,8 +19,7 @@ Actualmente curso Ethical Hacking con Edutek.
 - CompTIA Security+ SY0-701 (objetivo a futuro)
 
 ### Herramientas que uso
-`Nmap` `Wireshark` `Wazuh` `Kali Linux` `Monit/MMonit` `Google Dorks` `Shodan`
-
+`Nmap` `Wireshark` `Wazuh` `Kali Linux` `Monit/MMonit` `Google Dorks` `Shodan` `MISP` 
 ### Estructura del repositorio
 | Carpeta | Contenido |
 |---|---|
