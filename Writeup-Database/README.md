@@ -25,7 +25,7 @@ Servicios expuestos: FTP (21), SSH (22), HTTP (8080)
 - Reverse shell con Netcat
 - Escalación de privilegios por abuso de binarios SUID (´date -f´)
 
-    ## Herramientas 
+ ## Herramientas 
   
 - Nmap: escaneo de puertos y servicios.
 - Feroxbuster: Fuzzing de directorios.
