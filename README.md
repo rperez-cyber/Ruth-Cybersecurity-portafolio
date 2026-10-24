@@ -30,7 +30,7 @@ Actualmente curso Ethical Hacking con Edutek.
 | `04_OSINT` | Ejercicios de reconocimiento pasivo |
 
 ###  Certificaciones y formación
-- ✅ Comunidad DOJO — WoSEC Panama Bootcamp 2026
+- ✅ Comunidad DOJO — WoSEC Panamá Bootcamp Analista SOC Nivel 1 2025
 - ✅ Introducción a la Ciberseguridad — Cisco
 - ✅ Networking Basic — Cisco
 - ✅ Introducción a IoT — Cisco
