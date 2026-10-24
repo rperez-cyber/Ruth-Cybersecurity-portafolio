@@ -12,8 +12,9 @@ Actualmente curso Ethical Hacking con Edutek.
 
 ###  Actualmente aprendiendo
 - Inteligencia de Amenazas Cibernéticas (CTI) — TechClinics 2026 (Nicasecurity)
-- Bootcamp Analista SOC nivel 1 (Comunidad DOJO junto con WoSEC Panama)
-- Bootcamp Fundamentos de Ciberseguridad Comunidad DOJO junto con WoSEC Panama)
+- Bootcamp Analista SOC Nivel 1 (Comunidad DOJO junto con WoSEC Panamá)
+- Bootcamp Analista SOC Nivel 2 (Comunidad DOJO junto con WoSEC Panamá)
+- Bootcamp Fundamentos de Ciberseguridad Comunidad DOJO junto con WoSEC Panamá)
 - Reconocimiento activo y fundamentos de pentesting
 - Hacker Ethical (Edutek)
 - CompTIA Security+ SY0-701 (objetivo a futuro)
