@@ -9,6 +9,9 @@
 - **Dificultad**: Media
 - **Fecha**: 24/10/2026
 
+  ## Vector de Ataque
+  - Unrestricted File Upload - RCE - Escalada de privilegios vía binario SUID mal configurado
+
 ## Herramientas utilizadas
   
 - Nmap
