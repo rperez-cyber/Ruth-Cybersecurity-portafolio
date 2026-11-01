@@ -71,8 +71,6 @@ sudo systemctl status wazuh-agent --no-pager
 ```
 Resultado: el agente aparece como **Active** en **Endpoints Summary** (versión 4.14.9, grupo 'default').
 
-![Agente de Kali activo en Endpoints Summary](capturas/01-agente-activo.png)
-
 ### 5. Generación de eventos
    
 En el endpoint se introdujo una contraseña incorrecta en `sudo` varias veces:
