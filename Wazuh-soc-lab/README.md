@@ -80,6 +80,7 @@ En el endpoint se introdujo una contraseña incorrecta en `sudo` varias veces:
 sudo -k
 sudo ls # contraseña incorrecta x3
 ````
+![Agente de Kali activo en Endpoints Summary](capturas/01-agente-activo.png)
 
 
 ## Detección e investigación
