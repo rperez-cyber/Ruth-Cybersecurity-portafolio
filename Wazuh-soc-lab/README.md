@@ -119,8 +119,7 @@ el log original (full_log), lo que permite reconstruir qué ocurrió, cuándo y 
 
 ## Detección de vulnerabilidades
 
-Se revisó el módulo Vulnerability Detection sobre el inventario de paquetes del agente, que muestra métricas de severidad y paquetes afectados para priorizar la remediación
-según criticidad y exposición.
+Se revisó el módulo Vulnerability Detection sobre el inventario de paquetes del agente, que muestra métricas de severidad y paquetes afectados para priorizar la remediación según criticidad y exposición.
 
 ![Módulo Vulnerability Detection](capturas/04-vulnerability-detection.png)
 
