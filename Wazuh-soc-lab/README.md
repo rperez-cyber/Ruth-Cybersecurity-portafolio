@@ -94,7 +94,7 @@ En Threat Hunting, últimas 24 horas:
 
 El panel de MITREE ATT&CK de Wazuh agrupa las alertas por tácticas y técnicas, y las separas por agente ('kali' y el servidor 'wazuhsoc').
 
-![Panel de MITREE ATT&CK en Wazuh](capturas/05-mitre-attxk.png)
+![Panel de MITREE ATT&CK en Wazuh](capturas/05-mitre-attack.png)
 
 ## Regla que detectó los intentos fallidos
 
