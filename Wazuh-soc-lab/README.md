@@ -81,6 +81,7 @@ sudo -k
 sudo ls # contraseña incorrecta x3
 ````
 
+
 ## Detección e investigación
 
 En Threat Hunting, últimas 24 horas:
